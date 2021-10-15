@@ -79,6 +79,8 @@
     <Content Include="assets\webfonts\fa-regular-400.svg" />
     <Content Include="assets\webfonts\fa-solid-900.svg" />
     <Content Include="images\bg.jpg" />
+    <Content Include="images\BLACK II.jpg" />
+    <Content Include="images\Justin.JPG" />
     <Content Include="images\overlay.png" />
     <Content Include="images\pic01.jpg" />
     <Content Include="images\pic02.jpg" />
