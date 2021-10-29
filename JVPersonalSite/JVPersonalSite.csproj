@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\css\font-awesome.min.css" />
     <Content Include="assets\css\fontawesome-all.min.css" />
     <Content Include="assets\css\main.css" />
     <Content Include="assets\css\noscript.css" />
@@ -78,9 +79,16 @@
     <Content Include="assets\webfonts\fa-brands-400.svg" />
     <Content Include="assets\webfonts\fa-regular-400.svg" />
     <Content Include="assets\webfonts\fa-solid-900.svg" />
+    <Content Include="images\dungeonapp.jpg" />
+    <Content Include="images\Sleep_Inc.jpg" />
+    <Content Include="images\Vignone.jpg" />
     <Content Include="images\bg.jpg" />
-    <Content Include="images\BLACK II.jpg" />
+    <Content Include="images\bg2.jpg" />
+    <Content Include="images\iconpic1.jpg" />
+    <Content Include="images\iconpic2.jpg" />
     <Content Include="images\Justin.JPG" />
+    <Content Include="images\Kayaking.JPG" />
+    <Content Include="images\Solo.jpg" />
     <Content Include="images\overlay.png" />
     <Content Include="images\pic01.jpg" />
     <Content Include="images\pic02.jpg" />
@@ -135,6 +143,7 @@
     <Content Include="assets\webfonts\fa-solid-900.ttf" />
     <Content Include="assets\webfonts\fa-solid-900.woff" />
     <Content Include="assets\webfonts\fa-solid-900.woff2" />
+    <Content Include="assets\JVResumeIT.pdf" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>

@@ -1,11 +1,6 @@
+@import url(font-awesome.min.css);
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300italic,600italic,300,600");
-
-/*
-	Dimension by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-*/
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -699,6 +694,11 @@ input, select, textarea {
 			margin: 2.5rem 0;
 			width: 100%;
 		}
+        .image.classmates {
+            display: block;
+            margin: 2.5rem 0;
+            width: 50%;
+        }
 
 			.image.main img {
 				width: 100%;
@@ -1158,7 +1158,7 @@ input, select, textarea {
             -webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
             -ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
             transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-            background-image: url('../../images/BLACK II.jpg');
+            background-image: url('../../images/bg2.jpg');
             background-position: center;
             background-size: cover;
             background-repeat: no-repeat;
