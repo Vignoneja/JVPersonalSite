@@ -79,7 +79,11 @@
     <Content Include="assets\webfonts\fa-brands-400.svg" />
     <Content Include="assets\webfonts\fa-regular-400.svg" />
     <Content Include="assets\webfonts\fa-solid-900.svg" />
+    <Content Include="images\Benjamin_Adler.jpg" />
     <Content Include="images\dungeonapp.jpg" />
+    <Content Include="images\Gidonny_Ramos.jpg" />
+    <Content Include="images\MikeTullis.jpg" />
+    <Content Include="images\MindiFord.jpg" />
     <Content Include="images\Sleep_Inc.jpg" />
     <Content Include="images\Vignone.jpg" />
     <Content Include="images\bg.jpg" />
@@ -144,6 +148,7 @@
     <Content Include="assets\webfonts\fa-solid-900.woff" />
     <Content Include="assets\webfonts\fa-solid-900.woff2" />
     <Content Include="assets\JVResumeIT.pdf" />
+    <Content Include="images\JVResumeIT.pdf" />
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
